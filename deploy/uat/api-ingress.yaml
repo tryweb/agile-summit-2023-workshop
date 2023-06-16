@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   rules:
-    - host: 4.224.252.9.sslip.io   #?™é??¹æ?ä½ ç?Cluster2?¢é??„{IP}.sslip.io
+    - host: 4.224.252.9.sslip.io
       http:
         paths:
           - pathType: Prefix
